@@ -69,3 +69,24 @@ main {
   align-items: center;
   height: 100px;
 }
+
+/* ... Other styles ... */
+
+.scroll-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 40px;
+  height: 40px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 20px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.scroll-button:hover {
+  background-color: #0056b3;
+}

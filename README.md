@@ -2,6 +2,9 @@
 # Infinite Scroll Feed App
 
 This is a simple Infinite Scroll Feed app built using React and Vite, with data fetched using Axios. The app displays a list of posts that are fetched from a mock API as the user scrolls down the page.
+![infinite-scroll-feeds](https://github.com/DevShahmeer/infinite-scroll-feed/assets/108333592/c3c24ede-a5ad-46a9-b48e-0e1ea2820a6c)
+
+
 
 ## Features
 
